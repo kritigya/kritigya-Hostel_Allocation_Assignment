@@ -3,6 +3,7 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import './App.css';
 // import firebase from "firebase";
+// import firebase from "firebase";
 // import {db} from './firebase'
 // import { collection, getDocs } from 'firebase/firestore';
 import Nav from "./components/Nav";
